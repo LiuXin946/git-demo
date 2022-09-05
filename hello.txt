@@ -12,5 +12,7 @@ hello liuxin!hello git!
 hello liuxin!hello git!
 hello liuxin!hello git!
 hello liuxin!hello git!
+<<<<<<< HEAD
 hello liuxin!hello git!master test
-hello liuxin!hello git!
+hello liuxin!hello git!hot -fix
+>>>>>>> hot-fix
