@@ -13,4 +13,4 @@ hello liuxin!hello git!
 hello liuxin!hello git!
 hello liuxin!hello git!
 hello liuxin!hello git!
-hello liuxin!hello git!
+hello liuxin!hello git!hot -fix
